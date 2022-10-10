@@ -14693,7 +14693,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[3]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[2]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Read .csv data into Pandas dataframe objects</span>
@@ -14712,7 +14712,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[6]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[3]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">reddit_post_data</span><span class="o">.</span><span class="n">shape</span>
@@ -14731,7 +14731,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[6]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[3]:</div>
 
 
 
@@ -14765,11 +14765,11 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[7]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[4]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Drop empty/artifact columns, all data before 2010</span>
-<span class="n">disaster_data</span><span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="s2">"Glide"</span><span class="p">,</span> <span class="s2">"Disaster Subsubtype"</span><span class="p">,</span> <span class="s2">"Origin"</span><span class="p">,</span> <span class="s2">"Associated Dis"</span><span class="p">,</span> <span class="s2">"Associated Dis2"</span><span class="p">,</span> <span class="s2">"OFDA Response"</span><span class="p">,</span> <span class="s2">"Appeal"</span><span class="p">,</span> <span class="s2">"Declaration"</span><span class="p">,</span> <span class="s2">"AID Contribution ('000 US$)"</span><span class="p">,</span> <span class="s2">"Dis Mag Value"</span><span class="p">,</span> <span class="s2">"Dis Mag Scale"</span><span class="p">,</span> <span class="s2">"River Basin"</span><span class="p">,</span> <span class="s2">"No Injured"</span><span class="p">,</span> <span class="s2">"No Affected"</span><span class="p">,</span> <span class="s2">"No Homeless"</span><span class="p">,</span> <span class="s2">"Total Affected"</span><span class="p">,</span><span class="s2">"Reconstruction Costs ('000 US$)"</span><span class="p">,</span> <span class="s2">"Reconstruction Costs, Adjusted ('000 US$)"</span><span class="p">,</span> <span class="s2">"Insured Damages ('000 US$)"</span><span class="p">,</span> <span class="s2">"Insured Damages, Adjusted ('000 US$)"</span><span class="p">,</span> <span class="s2">"Total Damages ('000 US$)"</span><span class="p">,</span> <span class="s2">"Total Damages, Adjusted ('000 US$)"</span><span class="p">,</span> <span class="s2">"Adm Level"</span><span class="p">,</span> <span class="s2">"Admin1 Code"</span><span class="p">,</span> <span class="s2">"Admin2 Code"</span><span class="p">,</span> <span class="s2">"Geo Locations"</span><span class="p">],</span> <span class="n">axis</span> <span class="o">=</span> <span class="mi">1</span><span class="p">)</span> 
+<span class="n">disaster_data</span><span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="s2">"Glide"</span><span class="p">,</span> <span class="s2">"Disaster Subsubtype"</span><span class="p">,</span> <span class="s2">"Origin"</span><span class="p">,</span> <span class="s2">"Associated Dis"</span><span class="p">,</span> <span class="s2">"Associated Dis2"</span><span class="p">,</span> <span class="s2">"OFDA Response"</span><span class="p">,</span> <span class="s2">"Appeal"</span><span class="p">,</span> <span class="s2">"Declaration"</span><span class="p">,</span> <span class="s2">"AID Contribution ('000 US$)"</span><span class="p">,</span> <span class="s2">"Dis Mag Value"</span><span class="p">,</span> <span class="s2">"Dis Mag Scale"</span><span class="p">,</span> <span class="s2">"River Basin"</span><span class="p">,</span> <span class="s2">"No Injured"</span><span class="p">,</span> <span class="s2">"No Affected"</span><span class="p">,</span> <span class="s2">"No Homeless"</span><span class="p">,</span> <span class="s2">"Total Affected"</span><span class="p">,</span><span class="s2">"Reconstruction Costs ('000 US$)"</span><span class="p">,</span> <span class="s2">"Reconstruction Costs, Adjusted ('000 US$)"</span><span class="p">,</span> <span class="s2">"Insured Damages ('000 US$)"</span><span class="p">,</span> <span class="s2">"Insured Damages, Adjusted ('000 US$)"</span><span class="p">,</span> <span class="s2">"Total Damages ('000 US$)"</span><span class="p">,</span> <span class="s2">"Total Damages, Adjusted ('000 US$)"</span><span class="p">,</span> <span class="s2">"Adm Level"</span><span class="p">,</span> <span class="s2">"Admin1 Code"</span><span class="p">,</span> <span class="s2">"Admin2 Code"</span><span class="p">,</span> <span class="s2">"Geo Locations"</span><span class="p">],</span> <span class="n">axis</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="n">inplace</span> <span class="o">=</span> <span class="kc">True</span><span class="p">)</span> 
 <span class="n">disaster_data</span> <span class="o">=</span> <span class="n">disaster_data</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">disaster_data</span><span class="p">[</span><span class="s2">"Start Year"</span><span class="p">]</span> <span class="o">&gt;=</span> <span class="mi">2010</span><span class="p">]</span>
 <span class="n">disaster_data</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
 </pre></div>
@@ -14787,7 +14787,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[7]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[4]:</div>
 
 
 
@@ -14813,24 +14813,24 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
       <th>Dis No</th>
       <th>Year</th>
       <th>Seq</th>
-      <th>Glide</th>
       <th>Disaster Group</th>
       <th>Disaster Subgroup</th>
       <th>Disaster Type</th>
       <th>Disaster Subtype</th>
-      <th>Disaster Subsubtype</th>
       <th>Event Name</th>
+      <th>Country</th>
+      <th>ISO</th>
       <th>...</th>
-      <th>Reconstruction Costs, Adjusted ('000 US$)</th>
-      <th>Insured Damages ('000 US$)</th>
-      <th>Insured Damages, Adjusted ('000 US$)</th>
-      <th>Total Damages ('000 US$)</th>
-      <th>Total Damages, Adjusted ('000 US$)</th>
+      <th>Longitude</th>
+      <th>Local Time</th>
+      <th>Start Year</th>
+      <th>Start Month</th>
+      <th>Start Day</th>
+      <th>End Year</th>
+      <th>End Month</th>
+      <th>End Day</th>
+      <th>Total Deaths</th>
       <th>CPI</th>
-      <th>Adm Level</th>
-      <th>Admin1 Code</th>
-      <th>Admin2 Code</th>
-      <th>Geo Locations</th>
     </tr>
   </thead>
   <tbody>
@@ -14839,124 +14839,124 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
       <td>2009-0595-IND</td>
       <td>2009</td>
       <td>595</td>
-      <td>CW-2010-000013</td>
       <td>Natural</td>
       <td>Meteorological</td>
       <td>Extreme temperature</td>
       <td>Cold wave</td>
       <td>NaN</td>
-      <td>NaN</td>
+      <td>India</td>
+      <td>IND</td>
       <td>...</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>2010</td>
+      <td>1.0</td>
+      <td>2.0</td>
+      <td>2010</td>
+      <td>1.0</td>
+      <td>13.0</td>
+      <td>100.0</td>
       <td>79.173803</td>
-      <td>1;2</td>
-      <td>1489;1493;70073;70081</td>
-      <td>72808</td>
-      <td>Bihar, Delhi, Himachal Pradesh, Uttar Pradesh ...</td>
     </tr>
     <tr>
       <th>18033</th>
       <td>2010-0179-CHN</td>
       <td>2010</td>
       <td>179</td>
-      <td>NaN</td>
       <td>Natural</td>
       <td>Meteorological</td>
       <td>Storm</td>
       <td>Convective storm</td>
-      <td>Tornado</td>
       <td>NaN</td>
+      <td>China</td>
+      <td>CHN</td>
       <td>...</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>62251.0</td>
-      <td>77357.0</td>
+      <td>2010</td>
+      <td>5.0</td>
+      <td>6.0</td>
+      <td>2010</td>
+      <td>5.0</td>
+      <td>6.0</td>
+      <td>29.0</td>
       <td>80.472285</td>
-      <td>1</td>
-      <td>900</td>
-      <td>NaN</td>
-      <td>Chongqing Shi (Adm1).</td>
     </tr>
     <tr>
       <th>18034</th>
       <td>2010-0484-CHN</td>
       <td>2010</td>
       <td>484</td>
-      <td>NaN</td>
       <td>Natural</td>
       <td>Meteorological</td>
       <td>Storm</td>
       <td>Tropical cyclone</td>
-      <td>NaN</td>
       <td>Typhoon Fanapi</td>
+      <td>China</td>
+      <td>CHN</td>
       <td>...</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>298285.0</td>
-      <td>370668.0</td>
+      <td>2010</td>
+      <td>9.0</td>
+      <td>20.0</td>
+      <td>2010</td>
+      <td>9.0</td>
+      <td>20.0</td>
+      <td>75.0</td>
       <td>80.472285</td>
-      <td>1</td>
-      <td>901;903</td>
-      <td>NaN</td>
-      <td>Fujian Sheng, Guangdong Sheng (Adm1).</td>
     </tr>
     <tr>
       <th>18035</th>
       <td>2010-0503-GTM</td>
       <td>2010</td>
       <td>503</td>
-      <td>TC-2010-000188</td>
       <td>Natural</td>
       <td>Meteorological</td>
       <td>Storm</td>
       <td>Tropical cyclone</td>
-      <td>NaN</td>
       <td>Tropical storm Matthew</td>
+      <td>Guatemala</td>
+      <td>GTM</td>
       <td>...</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>2010</td>
+      <td>9.0</td>
+      <td>25.0</td>
+      <td>2010</td>
+      <td>9.0</td>
+      <td>25.0</td>
       <td>NaN</td>
       <td>80.472285</td>
-      <td>1</td>
-      <td>64822;64830;64833;64837;64838</td>
-      <td>NaN</td>
-      <td>El Progreso, Huehuetenango, Izabal, Petén, Suc...</td>
     </tr>
     <tr>
       <th>18036</th>
       <td>2010-0692-ITA</td>
       <td>2010</td>
       <td>692</td>
-      <td>NaN</td>
       <td>Natural</td>
       <td>Meteorological</td>
       <td>Storm</td>
       <td>Convective storm</td>
       <td>NaN</td>
-      <td>NaN</td>
+      <td>Italy</td>
+      <td>ITA</td>
       <td>...</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>872000.0</td>
-      <td>1083603.0</td>
+      <td>2010</td>
+      <td>10.0</td>
+      <td>31.0</td>
+      <td>2010</td>
+      <td>11.0</td>
+      <td>2.0</td>
+      <td>3.0</td>
       <td>80.472285</td>
-      <td>1</td>
-      <td>1621;1623;1624;1630;1631;1634;1635</td>
-      <td>NaN</td>
-      <td>Friuli-venezia Giulia, Liguria, Lombardia, Sic...</td>
     </tr>
   </tbody>
 </table>
-<p>5 rows × 50 columns</p>
+<p>5 rows × 24 columns</p>
 </div>
 </div>
 
@@ -14971,7 +14971,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[8]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[5]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Create human-readable date column, strip columns of whitespace</span>
@@ -14994,7 +14994,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[8]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[5]:</div>
 
 
 
@@ -15129,7 +15129,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[9]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[6]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Create human-readable date columns, strip columns of whitespace</span>
@@ -15152,7 +15152,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[9]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[6]:</div>
 
 
 
@@ -15289,7 +15289,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[10]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[7]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Group by date for quantitative data, and rename columns</span>
@@ -15311,7 +15311,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[10]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[7]:</div>
 
 
 
@@ -15385,7 +15385,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[11]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[8]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Group by date for quantitative data, and rename columns</span>
@@ -15407,7 +15407,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[11]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[8]:</div>
 
 
 
@@ -15486,7 +15486,7 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[20]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[9]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Create plot of average sentiment over time in seaborn</span>
@@ -15507,13 +15507,13 @@ The first is “The Reddit Climate Change Dataset”, compiled by user &quot;lex
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[20]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[9]:</div>
 
 
 
 
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
-<pre>&lt;matplotlib.legend.Legend at 0x7ff200846fd0&gt;</pre>
+<pre>&lt;matplotlib.legend.Legend at 0x7fd50bfa5850&gt;</pre>
 </div>
 
 </div>
@@ -15555,7 +15555,7 @@ class="
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[13]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[10]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># create aggregates for comment volume and post volume for each day</span>
@@ -15573,7 +15573,7 @@ class="
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[14]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[11]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">reddit_comment_days</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
@@ -15592,7 +15592,7 @@ class="
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[14]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[11]:</div>
 
 
 
@@ -15673,7 +15673,7 @@ class="
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[15]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[12]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">reddit_post_days</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
@@ -15692,7 +15692,7 @@ class="
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[15]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[12]:</div>
 
 
 
@@ -15766,7 +15766,7 @@ class="
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[19]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[13]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Plot comment volume across time (assign hue to sentiment)</span>
@@ -15787,7 +15787,7 @@ class="
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[19]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[13]:</div>
 
 
 
@@ -15835,7 +15835,7 @@ class="
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[18]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[14]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Plot post volume across time (no sentiment analysis on post content, so fixed hue)</span>
@@ -15856,7 +15856,7 @@ class="
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[18]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[14]:</div>
 
 
 
@@ -15899,22 +15899,6 @@ class="
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span> 
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
 </div>
 </body>
 
