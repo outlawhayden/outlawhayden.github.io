@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:  Data Science - Machine Learning - Statistics
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2030 Jefferson Ave</p>
+    <p>New Orleans, LA 70115</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is Hayden Outlaw - I'm a student, data scientist, and programmer at Tulane University in New Orleans, LA. I'm originally from Boulder, CO, but moved to Louisiana to pursue a degree in Mathematics and Computer Science, and intend on pursuing a PhD after that.  I primarily focus on machine learning, statistical inference, and algorithmic equity. Most of my projects are available under the [repositories](/repositories) tab and are open source to all - although I'm always happy to field new proposals or questions through any of the contact methods listed here. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In my free time, I play bass trombone for the [Tulane University Marching Band](http://tulanebands.org/tumb), work on computers for [WTUL 91.5](http://wtul.fm), study German, Spanish, Philosophy, and make fun digital art. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+"What a computer is to me is it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds" - Steve Jobs
