@@ -73,8 +73,10 @@
         - Extensive training in SQL query design, as well as database use and administration on both local and enterprise-grade systems.
         - Familiar with a range of DBMS software, including Microsoft SMSS, and MYSQL Workbench.
     - title: Java
+      items:
         - Familiar with Java development and IDE systems, including UML diagramming, javadoc exports, and pseudocode presentation.
     - title: C
+      items:
         - Studied operating system and low level program design for resource virtualization and optimal useage.
         - Shell and script capable on LINUX and UNIX machines.
 
