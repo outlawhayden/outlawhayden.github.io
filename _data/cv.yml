@@ -18,73 +18,94 @@
         - Bachelors of Science in Mathematics and Computer Science with a minor in Philosophy
         - Focus on statistics, data science, machine learning, and computer programming
         - Extensive research experience across multiple independent and university-backed projects
-        - GPA of 3.91 with Honors
-
+        - GPA 3.91 with Honors
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Machine Learning Intern
+      institution: National Center for Atmospheric Research, Boulder, Colorado
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Streamlined distributed neural network used to decompress cloud particle algorithms in TensorFlow to improve performance and decrease computational load, as a part of the NCAR Computational and Information Systems Lab.
+
+    - title: Data Science Equity Researcher
+      institution: Tulane Data Analysis Institute, New Orleans, Louisiana
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Researching bias mitigation and debiasing methods for hiring screeing algorithms, based on data from hiring equity audit studies to examine age-based discrimination in hiring practices
+        - Examining pre-processing, post-processing, and in-processing bias management and mitigation across a wide variety of statistical and deep learning models
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Convex Optimization Researcher
+      institution: Tulane University Mathematics Department, New Orleans, Louisiana
+      year: 2021 - Present
       description:
+        - Researching fitting graphical models from data, specifically the graphicalLasso convex optimization method, and the likelihood of sufficient data points required to fit it
+        - Spans numerical estimation, convex optimization, graphical models, statistical inference, and algebraic geometry
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Station Engineer
+      institution: WTUL 91.5 New Orleans, New Orleans, Louisiana
+      year: 2021 - Present
+      description:
+        - Responsible for the hardware and software architecture of the station, including website management, hardware repairs, music archiving, troubleshooting, and sound system design.
 
-- title: Open Source Projects
-  type: time_table
+    - title: Biomathematics Researcher
+      institution: Georgia Institute of Technology, Atlanta, Georgia
+      year: 2021 - 2021
+      description:
+        - Participated in biomathematical modeling accelerator internship utilizing NetLogo and other agent-based simulation tools to design biological and ecological models in conjunction with teams from Northwestern, Brown, Clemson, Tulane, Georgia Tech, and University of Florida.
+        - Simulated gas-particle biochemical signaling diffusion from acacia trees, and their impact on giraffe predation patterns.
+
+
+- title: Languages
+  type: nested_list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Python
+      items:
+        - Skilled in python development for applications, data science, and machine learing applicaitons.
+        - Extensive use of custom libraries, Conda and Conda-Forge environments, and specialized packages such as NumPy, SciPy, Pandas, PyTorch, Tensorflow, SKLearn, NetworkX, and others.
+        - Created and refined multiple projects in local and cloud-based notebook environments with specialized backends and presentation formats.
+    - title: R
+      items:
+        - Capable of importing and analyzing data through statistics, generating measures and sampling distributions as well as visual reports in automated programs.
+    - title: SQL
+      items:
+        - Extensive training in SQL query design, as well as database use and administration on both local and enterprise-grade systems.
+        - Familiar with a range of DBMS software, including Microsoft SMSS, and MYSQL Workbench.
+    - title: Java
+        - Familiar with Java development and IDE systems, including UML diagramming, javadoc exports, and pseudocode presentation.
+    - title: C
+        - Studied operating system and low level program design for resource virtualization and optimal useage.
+        - Shell and script capable on LINUX and UNIX machines.
 
-- title: Honors and Awards
-  type: time_table
+- title: Hobbies
+  type: list
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - PADI Advanced Open Water SCUBA Diver, with extensive experience diving in the Yucatán region of Mexico and Belize.
+    - DJ for WTUL New Orleans for three years, supporting New Orleans music and local creative expression.
+    - Skiier since age seven, with avalanche and natural disaster response training.
+    - Trombone performer in collegiate marching band, orchestral, and small group settings.
+
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Ethical Philosophy
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Political ethics, and the development of representative and progressive government
+        - Ethical machine learning and data science practices to maximze demographic outcome equality of institutions, as well as institutional accountability and transparency.
+        - Ethical data sourcing, privacy, and anonymization practices
+    - title: Sports Analytics
       items:
-        - Description 1.
-        - Description 2.
+        - Using machine learning and statistics to compete in sports analytics contests in collaboration with analysts from BI, sports, and marketing backgrounds.
+      title: Digital Visualization
+      items:
+        - Programming in javascript, processing, and p5 libraries to create digital artwork and animations.
 
-- title: Other Interests
-  type: list
+- title: Honors and Awards
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: 2016
+      items: 
+        - Eagle Scout, Boy Scouts of America
+
