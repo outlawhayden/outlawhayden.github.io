@@ -2,31 +2,24 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hayden Outlaw
     - name: Date of Birth
-      value: 14th March 1879
+      value: 09 September 2002
     - name: Languages
-      value: English, German
+      value: English, Spanish, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BS
+      institution: Tulane University of Louisiana
+      year: 2020-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Bachelors of Science in Mathematics and Computer Science with a minor in Philosophy
+        - Focus on statistics, data science, machine learning, and computer programming
+        - Extensive research experience across multiple independent and university-backed projects
+        - GPA of 3.91 with Honors
+
 
 - title: Experience
   type: time_table
