@@ -15,10 +15,9 @@
       institution: Tulane University of Louisiana
       year: 2020-2024
       description:
-        - Bachelors of Science in Mathematics and Computer Science with a minor in Philosophy
+        - Bachelors of Science in Mathematics and Computer Science with a minor in Philosophy (GPA 3.91)
         - Focus on statistics, data science, machine learning, and computer programming
         - Extensive research experience across multiple independent and university-backed projects
-        - GPA 3.91 with Honors
 
 - title: Experience
   type: time_table
@@ -79,6 +78,28 @@
       items:
         - Studied operating system and low level program design for resource virtualization and optimal useage.
         - Shell and script capable on LINUX and UNIX machines.
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Mathematics
+      - Formally trained across a variety of pure and applied mathematics including single and multivariate calculus, analysis, statistics, probability, abstract algebra, and number theory.
+      - Experience reading, reviewing, and writing formal publications
+      - Multiple years of Tier 1 research experience across a variety of institutions.
+      - Able to translate abstract concepts into languages such as R, Python, and Mathematica and back again for numerical computation and estimation.
+    - title: Data Science
+      - Capable of extracting, formatting, analyzing, and modeling on datasets of any kind and from a variety of sources.
+      - Comfortable with Python Pandas, Stata, and R for in depth analysis from data cleaning to presentation.
+      - Educated in use of DBMS software, including SQL querying, database creation and administration, and NoSQL systems.
+    - title: Machine Learning
+      - Well versed in practical ML implementations and restrictions, performance benchmarking, optimization, and on-line learning.
+      - Trained in machine learning theory including model complexity, error bounds, model formulation, and deep learning models.
+      - Project experience with SKLearn, Tensorflow, and PyTorch systems, as well as a wide variety of libraries and implementations.
+    - title: Cloud Computing
+      - Trained in creation, administration, and security of cloud computing resources across AWS, Azure, and GCP platforms.
+      - Familiar with cloud troubleshooting, budgeting, configuration, and system maintenance for a variety of problems and contexts.
+      - Experience with deployment of computation tasks to remote resources as an extension of research projects.
+    
 
 - title: Hobbies
   type: list
