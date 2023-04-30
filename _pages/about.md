@@ -21,4 +21,4 @@ Hi! My name is Hayden Outlaw - I'm a student, data scientist, and programmer at 
 
 In my free time, I play bass trombone for the [Tulane University Marching Band](http://tulanebands.org/tumb), work on computers for [WTUL 91.5](http://wtul.fm), dive, ski, study German, Spanish, and Philosophy, and make fun digital art. 
 
-*"Any sufficiently advanced technology is indistinguishable from magic" - Arthur C. Clarke*
+*"Think lightly of yourself and deeply of the world" - Miyamoto Musashi*
