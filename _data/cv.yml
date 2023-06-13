@@ -26,14 +26,7 @@
       institution: National Center for Atmospheric Research, Boulder, Colorado
       year: 2023 - Present
       description:
-        - Streamlined distributed neural network used to decompress cloud particle algorithms in TensorFlow to improve performance and decrease computational load, as a part of the NCAR Computational and Information Systems Lab.
-
-    - title: Data Science Equity Researcher
-      institution: Tulane Data Analysis Institute, New Orleans, Louisiana
-      year: 2023 - Present
-      description:
-        - Researching bias mitigation and debiasing methods for hiring screeing algorithms, based on data from hiring equity audit studies to examine age-based discrimination in hiring practices
-        - Examining pre-processing, post-processing, and in-processing bias management and mitigation across a wide variety of statistical and deep learning models
+        - Streamlined distributed neural network used to decompress cloud particle algorithms in PyTorch to improve performance and decrease computational load, as a part of the NCAR Computational and Information Systems Lab.
 
     - title: Convex Optimization Researcher
       institution: Tulane University Mathematics Department, New Orleans, Louisiana
@@ -62,7 +55,7 @@
     - title: Python
       items:
         - Skilled in python development for applications, data science, and machine learing applicaitons.
-        - Extensive use of custom libraries, Conda and Conda-Forge environments, and specialized packages such as NumPy, SciPy, Pandas, PyTorch, Tensorflow, SKLearn, NetworkX, and others.
+        - Extensive use of custom libraries, Conda and Conda-Forge environments, and specialized packages such as NumPy, SciPy, Pandas, XArray, NetCDF, SQLite, PyTorch, Tensorflow, SKLearn, NetworkX, and others.
         - Created and refined multiple projects in local and cloud-based notebook environments with specialized backends and presentation formats.
     - title: R
       items:
