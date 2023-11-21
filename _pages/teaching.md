@@ -6,21 +6,23 @@ description:
 nav: true
 nav_order: 5
 ---
-# Publications
-
+# publications
+Hayden Outlaw, Daniel Irving Bernstein. Modeling the Probability of Sufficient Data for Graphical Lasso Maximum Likelihood Estimates. *arXiv preprint*, 2024. *PENDING*
 
 --------------------
-# Presentations
-## American Meteorological Society
+# presentations
+--------------------
+### American Meteorological Society
 **Baltimore, MD - January 2024 *PENDING***
 
 - For American Meteorological Society national conference.
 - Presented findings from progress in Summer Internships In Parallel Computational Science at the National Center for Atmospheric Research.
 
-## Tulane University Undergraduate Research Symposium
+### Tulane University Undergraduate Research Symposium
 
 **New Orleans, LA - October 2023**
-- Presented novel numeric model of probability function for existence of graphLasso covariance estimator in low-sample scenarios, to promote research funding and accessibility for undergraduate projects
+
+- Presented novel numeric model of probability function for existence of graphLasso covariance estimator in low-sample scenarios, to promote research funding and accessibility for undergraduate projects.
 
 ### National Center for Atmospheric Research SIPARCS Seminar
 
