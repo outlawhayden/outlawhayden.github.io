@@ -7,9 +7,10 @@ nav: true
 nav_order: 5
 ---
 # publications
-Hayden Outlaw, Daniel Irving Bernstein. Modeling the Probability of Sufficient Data for Graphical Lasso Maximum Likelihood Estimates. *arXiv preprint*, 2024. *PENDING*
-
 --------------------
+
+- Hayden Outlaw, Daniel Irving Bernstein. Modeling the Probability of Sufficient Data for Graphical Lasso Maximum Likelihood Estimates. *arXiv preprint*, 2024. *PENDING*
+
 # presentations
 --------------------
 ### American Meteorological Society
