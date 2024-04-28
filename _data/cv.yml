@@ -11,6 +11,11 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD
+      institution: North Carolina State University
+      year: 2024-Present
+      description:
+        - PhD in Applied Mathematics
     - title: BS
       institution: Tulane University of Louisiana
       year: 2020-2024
