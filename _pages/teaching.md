@@ -14,7 +14,7 @@ nav_order: 5
 ## presentations
 --------------------
 ### American Meteorological Society
-**Baltimore, MD - January 2024 *PENDING***
+**Baltimore, MD - January 2024**
 
 - For American Meteorological Society national conference.
 - Presented findings from progress in Summer Internships In Parallel Computational Science at the National Center for Atmospheric Research.

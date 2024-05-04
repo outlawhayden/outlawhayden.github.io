@@ -38,7 +38,7 @@
 
     - title: Algebraic Statistics Researcher
       institution: Tulane University Mathematics Department, New Orleans, Louisiana
-      year: 2021 - Present
+      year: 2021 - 2023
       description:
         - Researching fitting graphical models from data, specifically the graphicalLasso convex optimization method, and the likelihood of sufficient data points required to fit it
         - Spans numerical estimation, convex optimization, graphical models, statistical inference, and algebraic geometry
