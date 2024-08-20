@@ -27,5 +27,3 @@ In my free time I like to run, SCUBA dive, ski, study German, Spanish, and Philo
 - [On The Cruelty of Really Teaching Computing Science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 - [Terry Tao's Career Advice](https://terrytao.wordpress.com/career-advice/)
 - [Math is For All](https://mathisforall.com/)
-
-*"Think lightly of yourself and deeply of the world" - Miyamoto Musashi*
