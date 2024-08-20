@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Think lightly of yourself and deeply of the world" - Miyamoto Musashi
+subtitle: "Think lightly of yourself and deeply of the world", Miyamoto Musashi
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Hayden Outlaw - I'm a student, data scientist, and programmer at Tulane University in New Orleans, LA. I'm originally from Boulder, CO, but moved to Louisiana to pursue a degree in Mathematics and Computer Science, and intend on pursuing a PhD after that.  I primarily focus on machine learning, statistical inference, and high-powered computing. Some of my projects are available under the [repositories](/repositories), with more available on my [Github](https://github.com/outlawhayden/) profile - although I'm always happy to field new proposals or questions through any of the contact methods listed here. My most recent CV, as well as a download of my resume, are avialable under the [cv](/cv) tab. To see some of my academic works, check out the [publications & presentations](/materials) tab as well.
+Hi! My name is Hayden Outlaw - I'm a student, programmer, and mathematician in Raleigh, North Carolina. I predominantly work in scientific computing, deep learning, and research engineering, and I'm currently pursuing a PhD in Applied Mathematics at North Carolina State University. Some of my projects are available under the [repositories](/repositories), with more available on my [Github](https://github.com/outlawhayden/) profile - although I'm always happy to field new proposals or questions through any of the contact methods listed here. My most recent CV, as well as a download of my resume, are avialable under the [cv](/cv) tab. To see some of my academic works, check out the [publications & presentations](/materials) tab as well.
 
 In my free time I like to run, SCUBA dive, ski, study German, Spanish, and Philosophy, and see live music whenever I can. If you made it this far, you should read these:
 
