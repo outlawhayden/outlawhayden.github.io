@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Think lightly of yourself and deeply of the world", Miyamoto Musashi
+subtitle: Think lightly of yourself and deeply of the world, Miyamoto Musashi
 
 profile:
   align: right
@@ -21,9 +21,9 @@ Hi! My name is Hayden Outlaw - I'm a student, programmer, and mathematician in R
 
 In my free time I like to run, SCUBA dive, ski, study German, Spanish, and Philosophy, and see live music whenever I can. If you made it this far, you should read these:
 
-- [How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
-- [Programming is (should be ) Fun](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
-- [What is the Proper Way to Get Into Deep Learning](https://news.ycombinator.com/item?id=32480009)
-- [On The Cruelty of Really Teaching Computing Science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
-- [Terry Tao's Career Advice](https://terrytao.wordpress.com/career-advice/)
-- [Math is For All](https://mathisforall.com/)
+[How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
+[Programming is (should be ) Fun](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
+[What is the Proper Way to Get Into Deep Learning](https://news.ycombinator.com/item?id=32480009)
+[On The Cruelty of Really Teaching Computing Science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
+[Terry Tao's Career Advice](https://terrytao.wordpress.com/career-advice/)
+[Math is For All](https://mathisforall.com/)
