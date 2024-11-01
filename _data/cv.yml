@@ -29,14 +29,14 @@
       institution: Vanderbilt University Medical Center, Nashville, Tennessee
       year: 2024-2024
       description:
-      - Developed Java-based application and controller software for patient data within VUMC relational data lakes, to improve and streamline query and exporting methods. 
-      - Produced deployable enterprise-grade services, profiles, and utilities to align unorganized study data with institutional workflows and access procedures.
+        - Developed Java-based application and controller software for patient data within VUMC relational data lakes to improve and streamline query and exporting methods.
+        - Produced deployable enterprise-grade services, profiles, and utilities to align unorganized study data with institutional workflows and access procedures.
 
     - title: Machine Learning Intern
       institution: National Center for Atmospheric Research, Boulder, Colorado
       year: 2023 - 2023
       description:
-        - Streamlined distributed neural network used to decompress cloud particle algorithms in PyTorch to improve performance and decrease computational load, as a part of the NCAR Computational and Information Systems Lab..
+        - Streamlined distributed neural network used to decompress cloud particle algorithms in PyTorch to improve performance and decrease computational load as part of the NCAR Computational and Information Systems Lab.
         - Conducted data management and processing, as well as model training and evaluation in parallel on the NSF Derecho computer.
         - Collaborated with NOAA and NCAR developers, atmospheric scientists, and hardware engineers to ensure a practical, effective, and meaningful model framework.
         - Presented findings at NCAR SIPARCS Seminar in August 2023.
@@ -45,8 +45,8 @@
       institution: Tulane University Mathematics Department, New Orleans, Louisiana
       year: 2021 - 2023
       description:
-        - Researching fitting graphical models from data, specifically the graphicalLasso convex optimization method, and the likelihood of sufficient data points required to fit it
-        - Spans numerical estimation, convex optimization, graphical models, statistical inference, and algebraic geometry
+        - Researched fitting graphical models from data, specifically the graphical Lasso convex optimization method, and the likelihood of sufficient data points required to fit it.
+        - Spanned numerical estimation, convex optimization, graphical models, statistical inference, and algebraic geometry.
 
     - title: Station Engineer
       institution: WTUL 91.5 New Orleans, New Orleans, Louisiana
@@ -59,29 +59,26 @@
       year: 2021 - 2021
       description:
         - Participated in biomathematical modeling accelerator internship utilizing NetLogo and other agent-based simulation tools to design biological and ecological models in conjunction with teams from Northwestern, Brown, Clemson, Tulane, Georgia Tech, and University of Florida.
-        - Simulated gas-particle biochemical signaling diffusion from acacia trees, and their impact on giraffe predation patterns.
-
+        - Simulated gas-particle biochemical signaling diffusion from acacia trees and their impact on giraffe predation patterns.
 
 - title: Hobbies
   type: list
   contents:
-    - DJ for WTUL New Orleans for three years, supporting New Orleans music and local creative expression, currently DJ at WKNC 88.1 in Raleigh, NC
-    - Skiier since age seven, with avalanche and natural disaster response training.
-    - PADI Advanced Open Water SCUBA diver
-
+    - DJ for WTUL New Orleans for three years, supporting New Orleans music and local creative expression, currently DJ at WKNC 88.1 in Raleigh, NC.
+    - Skier since age seven, with avalanche and natural disaster response training.
+    - PADI Advanced Open Water SCUBA diver.
 
 - title: Honors and Awards
   type: time_table
   contents:
-     - year: 2024
-      items:
-      - Goodnight Doctoral Fellowship
     - year: 2024
-      items: 
+      items:
+        - Goodnight Doctoral Fellowship
+    - year: 2024
+      items:
         - Crest Student Leadership Medallion
         - Tulane University Dean's List (8 semesters)
         - Terry C Lawson Prize in Mathematics
     - year: 2016
-      items: 
+      items:
         - Eagle Scout, Boy Scouts of America
-
