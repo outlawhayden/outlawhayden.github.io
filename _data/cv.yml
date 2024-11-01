@@ -3,10 +3,6 @@
   contents:
     - name: Full Name
       value: Hayden Outlaw
-    - name: Date of Birth
-      value: 09 September 2002
-    - name: Languages
-      value: English, Spanish, German
 
 - title: Education
   type: time_table
@@ -16,6 +12,8 @@
       year: 2024-Present
       description:
         - PhD in Applied Mathematics
+        - Focus on applied and numerical methods, with a concentration in deep learning and inverse problems.
+        - Researching deep learning applications for image reconstruction from synthetic aperture radar arrays.
     - title: BS
       institution: Tulane University of Louisiana
       year: 2020-2024
@@ -27,6 +25,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Database Developer
+      institution: Vanderbilt University Medical Center, Nashville, Tennessee
+      year: 2024-2024
+      description:
+      - Developed Java-based application and controller software for patient data within VUMC relational data lakes, to improve and streamline query and exporting methods. 
+      - Produced deployable enterprise-grade services, profiles, and utilities to align unorganized study data with institutional workflows and access procedures.
+
     - title: Machine Learning Intern
       institution: National Center for Atmospheric Research, Boulder, Colorado
       year: 2023 - 2023
@@ -36,7 +41,7 @@
         - Collaborated with NOAA and NCAR developers, atmospheric scientists, and hardware engineers to ensure a practical, effective, and meaningful model framework.
         - Presented findings at NCAR SIPARCS Seminar in August 2023.
 
-    - title: Algebraic Statistics Researcher
+    - title: Numerical Statistics Researcher
       institution: Tulane University Mathematics Department, New Orleans, Louisiana
       year: 2021 - 2023
       description:
@@ -45,7 +50,7 @@
 
     - title: Station Engineer
       institution: WTUL 91.5 New Orleans, New Orleans, Louisiana
-      year: 2021 - Present
+      year: 2021 - 2024
       description:
         - Responsible for the hardware and software architecture of the station, including website management, hardware repairs, music archiving, troubleshooting, and sound system design.
 
@@ -57,56 +62,25 @@
         - Simulated gas-particle biochemical signaling diffusion from acacia trees, and their impact on giraffe predation patterns.
 
 
-- title: Languages
-  type: nested_list
-  contents:
-    - title: Python
-      items:
-        - Skilled in python development for applications, data science, and machine learing applicaitons.
-        - Extensive use of custom libraries, Conda and Conda-Forge environments, and specialized packages such as NumPy, SciPy, Pandas, XArray, NetCDF, SQLite, PyTorch, Tensorflow, SKLearn, NetworkX, and others.
-        - Created and refined multiple projects in local and cloud-based notebook environments with specialized backends and presentation formats.
-    - title: R
-      items:
-        - Capable of importing and analyzing data through statistics, generating measures and sampling distributions as well as visual reports in automated programs.
-    - title: SQL
-      items:
-        - Extensive training in SQL query design, as well as database use and administration on both local and enterprise-grade systems.
-        - Familiar with a range of DBMS software, including Microsoft SMSS, and MYSQL Workbench.
-    - title: Java
-      items:
-        - Familiar with Java development and IDE systems, including UML diagramming, javadoc exports, and pseudocode presentation.
-    - title: C
-      items:
-        - Studied operating system and low level program design for resource virtualization and optimal useage.
-        - Shell and script capable on LINUX and UNIX machines.
-
 - title: Hobbies
   type: list
   contents:
-    - PADI Advanced Open Water SCUBA Diver, with extensive experience diving in the Yucatán region of Mexico and Belize.
-    - DJ for WTUL New Orleans for three years, supporting New Orleans music and local creative expression.
+    - DJ for WTUL New Orleans for three years, supporting New Orleans music and local creative expression, currently DJ at WKNC 88.1 in Raleigh, NC
     - Skiier since age seven, with avalanche and natural disaster response training.
-    - Trombone performer in collegiate marching band, orchestral, and small group settings.
+    - PADI Advanced Open Water SCUBA diver
 
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Ethical Philosophy
-      items: 
-        - Political ethics, and the development of representative and progressive government
-        - Ethical machine learning and data science practices to maximze demographic outcome equality of institutions, as well as institutional accountability and transparency.
-        - Ethical data sourcing, privacy, and anonymization practices
-    - title: Sports Analytics
-      items:
-        - Using machine learning and statistics to compete in sports analytics contests in collaboration with analysts from BI, sports, and marketing backgrounds.
-      title: Digital Visualization
-      items:
-        - Programming in javascript, processing, and p5 libraries to create digital artwork and animations.
 
 - title: Honors and Awards
   type: time_table
   contents:
+     - year: 2024
+      items:
+      - Goodnight Doctoral Fellowship
+    - year: 2024
+      items: 
+        - Crest Student Leadership Medallion
+        - Tulane University Dean's List (8 semesters)
+        - Terry C Lawson Prize in Mathematics
     - year: 2016
       items: 
         - Eagle Scout, Boy Scouts of America
