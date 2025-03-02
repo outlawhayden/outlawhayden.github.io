@@ -11,9 +11,9 @@
       institution: North Carolina State University
       year: 2024-Present
       description:
-        - PhD in Applied Mathematics
-        - Focus on applied and numerical methods, with a concentration in deep learning and inverse problems.
-        - Researching deep learning applications for image reconstruction from synthetic aperture radar arrays.
+        - Goodnight Doctoral Fellow PhD in Applied Mathematics
+        - Focus on applied and numerical methods, with a concentration in computational inverse problems.
+        - Researching deep learning applications for synthetic aperture radar image reconstruction, advised by Dr. Semyon Tsynkov and Dr. Mikhail Gilman.
     - title: BS
       institution: Tulane University of Louisiana
       year: 2020-2024
@@ -64,9 +64,9 @@
 - title: Hobbies
   type: list
   contents:
-    - DJ for WTUL New Orleans for three years, supporting New Orleans music and local creative expression, currently DJ at WKNC 88.1 in Raleigh, NC.
-    - Skier since age seven, with avalanche and natural disaster response training.
+    - Photography, specifically live music and performance shoots.
     - PADI Advanced Open Water SCUBA diver.
+    - Running, open source software development, sport climbing, and hiking.
 
 - title: Honors and Awards
   type: time_table
