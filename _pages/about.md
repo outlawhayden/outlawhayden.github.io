@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Think lightly of yourself and deeply of the world - Miyamoto Musashi
+subtitle: Think lightly of yourself and deeply of the world, Miyamoto Musashi
 
 profile:
   align: right
