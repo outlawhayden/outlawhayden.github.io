@@ -139,8 +139,37 @@ blockquote {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
   opacity: 0.95;
+  // Light mode gradient - more pronounced based on monokai-bg-light (#f8f8f2) 
+  background: linear-gradient(to bottom, 
+    #ffffff 0%, 
+    #fefef8 15%, 
+    #f8f8f2 50%, 
+    #f0f0ea 85%, 
+    #e8e8e2 100%);
+  // Add more pronounced inset shadow for depth
+  box-shadow: 
+    inset 0 1px 0 rgba(255,255,255,0.9),
+    inset 0 -1px 0 rgba(0,0,0,0.15),
+    0 1px 4px rgba(0,0,0,0.15),
+    0 0 8px rgba(0,0,0,0.05);
+}
+
+// Dark mode gradient
+html[data-theme='dark'] .navbar {
+  // Dark mode gradient - more pronounced based on monokai-bg (#272822)
+  background: linear-gradient(to bottom, 
+    #323330 0%, 
+    #2d2e26 15%, 
+    #272822 50%, 
+    #1f201a 85%, 
+    #17180f 100%);
+  // More pronounced darker inset shadows for dark theme
+  box-shadow: 
+    inset 0 1px 0 rgba(255,255,255,0.15),
+    inset 0 -1px 0 rgba(0,0,0,0.4),
+    0 1px 4px rgba(0,0,0,0.4),
+    0 0 8px rgba(0,0,0,0.2);
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -274,20 +303,49 @@ blockquote {
 
 // Footer
 footer.fixed-bottom {
-  background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  // Light mode gradient - more pronounced based on monokai-bg-light (#f8f8f2) 
+  background: linear-gradient(to bottom, 
+    #ffffff 0%, 
+    #fefef8 15%, 
+    #f8f8f2 50%, 
+    #f0f0ea 85%, 
+    #e8e8e2 100%);
+  // Add pronounced inset shadow for depth
+  box-shadow: 
+    inset 0 1px 0 rgba(255,255,255,0.9),
+    inset 0 -1px 0 rgba(0,0,0,0.15),
+    0 -1px 4px rgba(0,0,0,0.15),
+    0 0 8px rgba(0,0,0,0.05);
   .container {
-    color: var(--global-footer-text-color);
+    color: var(--global-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
   }
   a {
-    color: var(--global-footer-link-color);
+    color: var(--global-text-color);
     &:hover {
       color: var(--global-theme-color);
       text-decoration: none;
     }
   }
+}
+
+// Dark mode footer gradient
+html[data-theme='dark'] footer.fixed-bottom {
+  // Dark mode gradient - more pronounced based on monokai-bg (#272822)
+  background: linear-gradient(to bottom, 
+    #323330 0%, 
+    #2d2e26 15%, 
+    #272822 50%, 
+    #1f201a 85%, 
+    #17180f 100%);
+  // More pronounced darker inset shadows for dark theme
+  box-shadow: 
+    inset 0 1px 0 rgba(255,255,255,0.15),
+    inset 0 -1px 0 rgba(0,0,0,0.4),
+    0 -1px 4px rgba(0,0,0,0.4),
+    0 0 8px rgba(0,0,0,0.2);
 }
 
 footer.sticky-bottom {
