@@ -2,10 +2,31 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+// Font loading optimization
+html {
+  // Optimize font rendering
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  
+  // Apply fallback fonts immediately to prevent layout shift
+  font-family: $font-family-sans-serif;
+  
+  // Prevent invisible text during font swap
+  font-display: swap;
+}
+
+// Ensure body uses the fallback fonts
+body {
+  font-family: $font-family-sans-serif;
+}
+
 // Typography
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
+  // Ensure consistent line height to reduce layout shift
+  line-height: 1.5;
 }
 
 hr {

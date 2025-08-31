@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
+
+# Fix for uri gem version conflict - allow flexible versioning
+gem 'uri', '>= 0.10.0'
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
