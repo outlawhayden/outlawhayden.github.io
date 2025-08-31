@@ -7,10 +7,9 @@ nav: true
 nav_order: 3
 ---
 ## Languages
-
 I predominantly build in Python, but am familiar to a lesser extent with Rust, MATLAB, C++, and Java. I also have experience in Javascript, React, HTML/CSS, Julia, Haskell, NetLogo, and OCaml.
----
 
+---
 
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -21,7 +20,7 @@ I predominantly build in Python, but am familiar to a lesser extent with Rust, M
 {% endif %}
 
 ---
-
+## Repositories
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}

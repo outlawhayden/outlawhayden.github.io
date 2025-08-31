@@ -1,26 +1,22 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Hayden Outlaw
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: North Carolina State University
+    - title: PhD, Applied Mathematics
+      institution: North Carolina State University, Raleigh, NC, USA
       year: 2024-Present
       description:
         - Goodnight Doctoral Fellow PhD in Applied Mathematics
         - Focus on applied and numerical methods, with a concentration in computational inverse problems.
-        - Researching deep learning applications for synthetic aperture radar image reconstruction, advised by Dr. Semyon Tsynkov and Dr. Mikhail Gilman.
-    - title: BS
-      institution: Tulane University of Louisiana
+        - Qualifying examinations in Numerical Analysis, Biomathematical Modeling, and Matrix Theory.
+        - Currently studying deep operator networks for physical systems and partial differential equations.
+        - Teaching and instructional experience across a variety of undergraduate mathematics courses
+    - title: BS, Mathematics & Computer Science
+      institution: Tulane University of Louisiana, New Orleans, LA, USA
       year: 2020-2024
       description:
-        - Bachelors of Science in Mathematics and Computer Science with a minor in Philosophy (GPA 3.91)
-        - Focus on statistics, data science, machine learning, and computer programming
-        - Extensive research experience across multiple independent and university-backed projects
+        - Bachelors of Science in Mathematics and Computer Science with a minor in Philosophy (GPA 3.91).
+        - Focus on statistics, data science, machine learning, and computer programming.
+        - Extensive research experience across multiple independent and university-backed projects.
 
 - title: Experience
   type: time_table
@@ -60,13 +56,6 @@
       description:
         - Participated in biomathematical modeling accelerator internship utilizing NetLogo and other agent-based simulation tools to design biological and ecological models in conjunction with teams from Northwestern, Brown, Clemson, Tulane, Georgia Tech, and University of Florida.
         - Simulated gas-particle biochemical signaling diffusion from acacia trees and their impact on giraffe predation patterns.
-
-- title: Hobbies
-  type: list
-  contents:
-    - Photography, specifically live music and performance shoots.
-    - PADI Advanced Open Water SCUBA diver.
-    - Running, open source software development, sport climbing, and hiking.
 
 - title: Honors and Awards
   type: time_table
