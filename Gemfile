@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-# Fix for uri gem version conflict - allow flexible versioning
-gem 'uri', '>= 0.10.0'
+# Fix for uri gem version conflict - lock to specific version that CI environment supports
+gem 'uri', '0.10.1'
 
 group :jekyll_plugins do
     gem 'classifier-reborn'
