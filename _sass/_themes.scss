@@ -3,17 +3,17 @@
  ******************************************************************************/
  
 :root {
-  --global-bg-color: #{$white-color};
+  --global-bg-color: #{$monokai-bg-light};
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$black-color};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: rgb(72, 135, 65);
-  --global-hover-color:  rgb(72, 135, 65);
-  --global-footer-bg-color: #{$grey-color-dark};
-  --global-footer-text-color: #{$grey-color-light};
-  --global-footer-link-color: #{$white-color};
-  --global-distill-app-color: #{$grey-color};
-  --global-divider-color: rgba(0,0,0,.1);
+  --global-text-color: #{$monokai-fg-dark};
+  --global-text-color-light: #{$monokai-comment};
+  --global-theme-color: #{$monokai-cyan};
+  --global-hover-color: #{$monokai-green};
+  --global-footer-bg-color: #{$monokai-grey};
+  --global-footer-text-color: #{$monokai-fg};
+  --global-footer-link-color: #{$monokai-cyan};
+  --global-distill-app-color: #{$monokai-comment};
+  --global-divider-color: rgba(73,72,62,.3);
   --global-card-bg-color: #{$white-color};
 
   .fa-sun {
@@ -34,18 +34,18 @@
 }
 
 html[data-theme='dark'] {
-  --global-bg-color: #{$grey-color-dark};
+  --global-bg-color: #{$monokai-bg};
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$grey-color-light};
-  --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: rgba(105,194,95,1);
-  --global-hover-color:  rgba(105,194,95,1);
-  --global-footer-bg-color: #{$grey-color-light};
-  --global-footer-text-color: #{$grey-color-dark};
-  --global-footer-link-color: #{$black-color};
-  --global-distill-app-color: #{$grey-color-light};
-  --global-divider-color: #424246;
-  --global-card-bg-color: #{$grey-900};
+  --global-text-color: #{$monokai-fg};
+  --global-text-color-light: #{$monokai-comment};
+  --global-theme-color: #{$monokai-green};
+  --global-hover-color: #{$monokai-cyan};
+  --global-footer-bg-color: #{$monokai-grey-light};
+  --global-footer-text-color: #{$monokai-fg};
+  --global-footer-link-color: #{$monokai-cyan};
+  --global-distill-app-color: #{$monokai-comment};
+  --global-divider-color: #{$monokai-grey};
+  --global-card-bg-color: #{$monokai-grey-light};
 
   .fa-sun {
     padding-left: 10px;

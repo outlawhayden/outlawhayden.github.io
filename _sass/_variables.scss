@@ -31,8 +31,23 @@ $grey-900:            #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+// Monokai color palette
+$monokai-bg:          #272822 !default;  // Dark background
+$monokai-bg-light:    #f8f8f2 !default;  // Light background  
+$monokai-fg:          #f8f8f2 !default;  // Light text
+$monokai-fg-dark:     #272822 !default;  // Dark text
+$monokai-comment:     #75715e !default;  // Comments/muted text
+$monokai-red:         #f92672 !default;  // Pink/red
+$monokai-orange:      #fd971f !default;  // Orange
+$monokai-yellow:      #e6db74 !default;  // Yellow
+$monokai-green:       #a6e22e !default;  // Green
+$monokai-cyan:        #66d9ef !default;  // Cyan/blue
+$monokai-purple:      #ae81ff !default;  // Purple
+$monokai-grey:        #49483e !default;  // Selection/highlight
+$monokai-grey-light:  #3e3d32 !default;  // Lighter grey
+
 
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
-$code-bg-color-dark:      #2c3237 !default;
+$code-bg-color-light:     rgba($monokai-grey, 0.05);
+$code-bg-color-dark:      $monokai-grey !default;

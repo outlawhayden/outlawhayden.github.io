@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /materials/
-title: publications & presentations
+title: past work
 description:
 nav: true
 nav_order: 5
