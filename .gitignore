@@ -11,3 +11,7 @@ vendor
 .config
 .ipynb_checkpoints/
 
+_site/
+.ipynb_checkpoints/
+.tweet-cache/
+*.lock
