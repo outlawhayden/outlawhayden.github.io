@@ -51,7 +51,7 @@ Made it this far? Check out these pages:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="/assets/img/ub_online.png" width="200" alt="">
   <img src="/assets/img/ub_ml.png" width="200" alt="">
-  <img src="/assets/img/ub_prog.jpg" width="200" alt="">
-  <img src="/assets/img/ub_website.jpg" width="200" alt="">
-  <img src="/assets/img/ub_mistaken.jpg" width="200" alt="">
+  <img src="/assets/img/ub_prog.png" width="200" alt="">
+  <img src="/assets/img/ub_website.png" width="200" alt="">
+  <img src="/assets/img/ub_mistaken.png" width="200" alt="">
 </div>
