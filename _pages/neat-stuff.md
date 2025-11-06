@@ -49,9 +49,9 @@ Made it this far? Check out these pages:
 <hr>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="/assets/img/ub_online.png" width="200" alt="">
-  <img src="/assets/img/ub_ml.png" width="200" alt="">
-  <img src="/assets/img/ub_prog.png" width="200" alt="">
-  <img src="/assets/img/ub_website.png" width="200" alt="">
-  <img src="/assets/img/ub_mistaken.png" width="200" alt="">
+  <img src="/assets/img/ub_online.png" width="150" alt="">
+  <img src="/assets/img/ub_ml.png" width="150" alt="">
+  <img src="/assets/img/ub_prog.png" width="150" alt="">
+  <img src="/assets/img/ub_website.png" width="150" alt="">
+  <img src="/assets/img/ub_mistaken.png" width="150" alt="">
 </div>
