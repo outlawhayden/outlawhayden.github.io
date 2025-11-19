@@ -2,10 +2,10 @@ github_users:
   - outlawhayden
 
 github_repos:
-  - outlawhayden/outlawhayden.github.io
+  - outlawhayden/iono-net
   - NCAR/holodec-ml
   - tulane-cmps6730/project-control
   - outlawhayden/graphLassoMLT
   - eye-on-surveillance/sawt
-  - outlawhayden/weather-crime
+  - outlawhayden/deep-operator-networks
 
