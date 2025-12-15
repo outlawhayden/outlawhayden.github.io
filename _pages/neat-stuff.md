@@ -17,6 +17,7 @@ Made it this far? Check out these pages:
 - [Hacker News](https://news.ycombinator.com/) - Mathematics and Technology News
 - [RadioGarden](https://radio.garden/visit/fort-collins-co/szfe47nj) - Random live radio feeds
 - [Math is For All](https://mathisforall.com/) - Making mathematics accessible
+- [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/) - Programming best practices and resources
 
 ### Reading & Essays
 

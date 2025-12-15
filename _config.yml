@@ -68,7 +68,7 @@ og_image: /assets/img/earth_header.jpg # The site-wide (default for all links) O
 github_username: outlawhayden
 gitlab_username: # your GitLab user name
 twitter_username: #
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: defcon.social.tld/@outlawhayden # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: hayden-outlaw
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
