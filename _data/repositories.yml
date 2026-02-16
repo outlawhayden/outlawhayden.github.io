@@ -2,7 +2,7 @@ github_users:
   - outlawhayden
 
 github_repos:
-  - outlawhayden/iono-net
+  - outlawhayden/deep-operator-networks
   - NCAR/holodec-ml
   - tulane-cmps6730/project-control
   - outlawhayden/graphLassoMLT
