@@ -30,6 +30,7 @@ Made it this far? Check out these pages:
 - [On The Cruelty of Really Teaching Computing Science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html) - How to teach computer science
 - [What is "good taste" in Software Engineering?](https://www.seangoedecke.com/taste/) - How to judge quality software
 - [Please Do Not Bite the Newcomers](https://en.wikipedia.org/wiki/Wikipedia:Please_do_not_bite_the_newcomers) - How to be civil
+- [An Unsolicited Guide to Good Research](https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf) - How to be a good researcher
 
 ### Cool Tools
 
