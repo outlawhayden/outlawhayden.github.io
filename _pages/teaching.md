@@ -13,7 +13,7 @@ nav_order: 5
 
 ## projects
 --------------------
-- Hayden Outlaw, Gabe Cantanelli, Grayson Gall, Andrew Lys, Semidiscrete Central-Upwind Schemes for Hyperbolic Conservation Laws (NCSU MA788 Spring 2026) [PDF](assets/pdf/NNPDE_Project.pdf) [SLIDES](/Users/haydenoutlaw/Documents/Projects/outlawhayden.github.io/assets/pdf/ma788_presentation.pdf)
+- Hayden Outlaw, Gabe Cantanelli, Grayson Gall, Andrew Lys, Semidiscrete Central-Upwind Schemes for Hyperbolic Conservation Laws (NCSU MA788 Spring 2026) [PDF](../assets/pdf/NNPDE_Project.pdf) [SLIDES](../assets/pdf/ma788_presentation.pdf)
 
 ## presentations
 --------------------
