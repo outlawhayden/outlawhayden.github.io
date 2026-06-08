@@ -6,7 +6,7 @@ subtitle: machine learning researcher and software engineer
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot_talley.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p></p>

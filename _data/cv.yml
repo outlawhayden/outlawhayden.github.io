@@ -6,10 +6,16 @@
       year: 2024-Present
       description:
         - Goodnight Doctoral Fellow PhD in Applied Mathematics
-        - Focus on applied and numerical methods, with a concentration in computational inverse problems.
-        - Qualifying examinations in Numerical Analysis, Biomathematical Modeling, and Matrix Theory.
-        - Currently studying deep operator networks for physical systems and partial differential equations.
+        - Currently studying deep learning approximations to solution operators, deep learning reduced order models, and physics informed neural networks
+    - title: MS, Applied Mathematics
+      institution: North Carolina State University, Raleigh, NC, USA
+      year: 2024-2026
+      description:
+        - Qualifying examinations in numerical analysis, biomathematical modeling, and partial differential equations
+        - Predominant focus on computational functional analysis, machine learning, numerical PDEs, and computational inverse problems
         - Teaching and instructional experience across a variety of undergraduate mathematics courses
+        - Assistant Director, NCSU Undergrad Directed Reading Program
+        - Referee, Triangle Computational Math Modeling Contest
     - title: BS, Mathematics & Computer Science
       institution: Tulane University of Louisiana, New Orleans, LA, USA
       year: 2020-2024

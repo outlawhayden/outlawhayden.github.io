@@ -11,7 +11,9 @@ nav_order: 5
 
 - Hayden Outlaw, Daniel Irving Bernstein. Modeling the Probability of Sufficient Data for Graphical Lasso Maximum Likelihood Estimates. [*https://arxiv.org/abs/2312.03145*](https://arxiv.org/abs/2312.03145), 2024.
 
-
+## projects
+--------------------
+- Hayden Outlaw, Gabe Cantanelli, Grayson Gall, Andrew Lys, Semidiscrete Central-Upwind Schemes for Hyperbolic Conservation Laws (NCSU MA788 Spring 2026) [PDF](assets/pdf/NNPDE_Project.pdf) [SLIDES](/Users/haydenoutlaw/Documents/Projects/outlawhayden.github.io/assets/pdf/ma788_presentation.pdf)
 
 ## presentations
 --------------------
