@@ -66,7 +66,7 @@ nav_order: 5
 # teaching
 --------------------
 
-- Lecture Assitant, MA121 North Carolina State University, Fall 2024
+- Lecture Assistant, MA121 North Carolina State University, Fall 2024
 - Recitation Leader, MA141 North Carolina State University, Fall 2025
 - Recitation Leader, MA131 North Carolina State University, Spring 2026
 - Instructor of Record, MA131 North Carolina State University, Summer 2026
