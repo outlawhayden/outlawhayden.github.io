@@ -22,7 +22,7 @@ nav_order: 5
 - [Intercollegiate Math Modeling Challenge](https://sites.duke.edu/im2c/) referee, Duke University
     - Fall 2024, Fall 2025
 - Directed Reading Program Leader, Introduction to Statistical Learning Theory and Decision Trees, Spring 2026
-    - *Advising Aryan Parikh* [SLIDES]((../assets/pdf/UUG_ML.pdf))
+    - *Advising Aryan Parikh* [SLIDES](../assets/pdf/UUG_ML.pdf)
 - Directed Reading Program Leader, Introduction to Analog Computing, Fall 2026 *(planned)*
 
 
