@@ -6,17 +6,29 @@ description:
 nav: true
 nav_order: 5
 ---
-## publications
+# publications
 --------------------
 
 - Hayden Outlaw, Daniel Irving Bernstein. Modeling the Probability of Sufficient Data for Graphical Lasso Maximum Likelihood Estimates. [*https://arxiv.org/abs/2312.03145*](https://arxiv.org/abs/2312.03145), 2024.
 
-## projects
+# projects
 --------------------
+
 - Hayden Outlaw, Gabe Cantanelli, Grayson Gall, Andrew Lys, Semidiscrete Central-Upwind Schemes for Hyperbolic Conservation Laws (NCSU MA788 Spring 2026) [PDF](../assets/pdf/NNPDE_Project.pdf) [SLIDES](../assets/pdf/ma788_presentation.pdf)
 
-## presentations
+# mentorship
 --------------------
+
+- [Intercollegiate Math Modeling Challenge](https://sites.duke.edu/im2c/) referee, Duke University
+    - Fall 2024, Fall 2025
+- Directed Reading Program Leader, Introduction to Statistical Learning Theory and Decision Trees, Spring 2026
+    - *Advising Aryan Parikh* [SLIDES]((../assets/pdf/UUG_ML.pdf))
+- Directed Reading Program Leader, Introduction to Analog Computing, Fall 2026 *(planned)*
+
+
+# presentations
+--------------------
+
 ### American Meteorological Society
 **Baltimore, MD - January 2024**
 
@@ -48,3 +60,14 @@ nav_order: 5
 - Presented novel numeric model of probability function for existence of graphLasso covariance estimator in low-sample scenarios.
 
 <img src = "../assets/img/AG23_Poster.jpg" width="560">
+
+
+
+# teaching
+--------------------
+
+- Lecture Assitant, MA121 North Carolina State University, Fall 2024
+- Recitation Leader, MA141 North Carolina State University, Fall 2025
+- Recitation Leader, MA131 North Carolina State University, Spring 2026
+- Instructor of Record, MA131 North Carolina State University, Summer 2026
+- Instructor of Record, MA131 North Carolina State University, Fall 2026
